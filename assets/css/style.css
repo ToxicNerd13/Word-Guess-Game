@@ -1,0 +1,21 @@
+* {
+box-sizing: border-box;
+}
+.main {
+    border: 2px solid orange;
+}
+h1 {
+    font-family: 'Nosifer', cursive ;
+    text-align: center;
+    color: orange;
+    font-size: 8vw;
+}
+.container {
+    color: orange;
+}
+body {
+    background: black;
+}
+p {
+    text-align: center;
+}
